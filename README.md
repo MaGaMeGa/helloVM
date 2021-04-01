@@ -26,7 +26,7 @@ and that VirtualBox installation folder is added to the *system* (not the user) 
 - [SET PATH LINK WINDOWS 10](https://www.alphr.com/environment-variables-windows-10/)
  
 #### How to use
-Download the  virtual machine. (1.6 G - may take some time... )<br />
+Download the  virtual machine. (1.46 G - may take some time... )<br />
 
 Open terminal/command line etc. and run:<br />
 ```bash
